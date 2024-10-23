@@ -28,19 +28,3 @@ Please see the CONTRIBUTING file.
 
 License
 MIT
-
-### Step 6: Create a CHANGELOG.md File
-
-You can create a `CHANGELOG.md` file with the following initial content:
-
-```markdown
-# Changelog
-
-All notable changes to this project will be documented in this file.
-
-## [Unreleased]
-
-### Added
-
-- Initial release of ApiService
-```
