@@ -1,6 +1,6 @@
 {
   "name": "simple-api-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple HTTP API service for making requests with token authentication.",
   "main": "index.js",
   "module": "index.js",
