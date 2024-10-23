@@ -8,6 +8,7 @@
   "scripts": {
     "test": "vitest",
     "build": "tsc",
+    "commit": "git-cz",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "release": "gh-release"
   },
